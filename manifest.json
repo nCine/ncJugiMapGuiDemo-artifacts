@@ -1,0 +1,17 @@
+{
+  "git_revision": "08a90df5d4a533322d90b5966cf226de0e68ddcd",
+  "artifacts": {
+    "installer": {
+      "filename": "ncJugiMapGuiDemo-2026.05.r1-08a90df-Win64-VS2022.exe",
+      "size": 3808891,
+      "timestamp": "2026-05-13T00:39:25Z",
+      "sha256": "dd7fbdd0338ae41b033c78c60416da535cb0874703356c8756f68f7e009a8f4b"
+    },
+    "portable": {
+      "filename": "ncJugiMapGuiDemo-2026.05.r1-08a90df-Win64-VS2022.zip",
+      "size": 4577095,
+      "timestamp": "2026-05-13T00:39:25Z",
+      "sha256": "5abf452d029eea6834c7142ec30c3d9b3cc310ccc12593f908f615443b260907"
+    }
+  }
+}
